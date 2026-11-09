@@ -2,7 +2,7 @@
 
 A reusable collection of engineering-focused Agent Skills, designed for reliable, evidence-based development workflows across compatible coding agents.
 
-> **Status: Planning.** This repository has not published any installable skills yet. The initial skill, `inspect`, has a design specification but has not been implemented or validated.
+> **Status: In progress.** The initial skill, `inspect`, has been implemented but not yet validated. No installable skills have been released.
 
 ## Goals
 
