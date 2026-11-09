@@ -27,7 +27,7 @@ A reusable collection of engineering-focused Agent Skills, designed for reliable
 
 | Skill | Responsibility | Status |
 | --- | --- | --- |
-| `inspect` | Establish repository context, assess risk, and report findings without making changes. | Design v1.0; not implemented |
+| `inspect` | Establish repository context, assess risk, and report findings without making changes. | Implemented; not yet validated |
 | `spec` | Define requirements, scope, acceptance criteria, and implementation constraints. | Planned |
 | `build` | Implement approved changes in accordance with project conventions and specifications. | Planned |
 | `verify` | Run relevant checks and report actual validation evidence. | Planned |
