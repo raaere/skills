@@ -39,7 +39,7 @@ When escalating, state what evidence changed the scope and why. Deep inspection 
 - Do not install dependencies or modify environment configuration.
 - Do not access external services unless needed for the request and available through an authorized read-only method.
 - If a safe read-only path is unavailable, stop that part and report the limitation as a blocker.
-- For a request that combines inspection with modification, perform only the inspection portion. State that the change is outside this skill's scope; do not make the change.
+- For a request that combines inspection with modification, this skill performs only the inspection portion. After reporting, hand off to the separately authorized implementation workflow when the user has requested or approved the change. Do not make modifications as part of this skill.
 
 ## Evidence and Status
 
