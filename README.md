@@ -91,7 +91,7 @@ To request a global installation, where supported:
 npx skills@latest add raaere/skills -g
 ```
 
-**Not yet actionable:** The repository is currently empty. It is also **private**, so installation requires an authenticated environment with repository access; anonymous installs cannot be assumed to work. Actual compatibility and installation will be verified after publication.
+**Not yet actionable:** The repository does not yet contain any installable skills. It is also **private**, so installation requires an authenticated environment with repository access; anonymous installs cannot be assumed to work. Actual compatibility and installation will be verified after publication.
 
 Skills may then be invoked explicitly, for example with `$inspect` in agents that support that syntax, or selected automatically when the host agent's skill-discovery behavior and the task description match. Automatic selection is not guaranteed and must be evaluated.
 
